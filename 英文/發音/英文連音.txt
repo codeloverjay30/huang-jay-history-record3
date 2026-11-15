@@ -1,0 +1,311 @@
+聽力筆記 ～ 連音原則
+ 
+ 
+ 
+中文講快一點，有些音會連起來，聽起來又怪又好笑，但聽久了也是習慣，而且完全不影響溝通。
+ 
+例如︰這樣子 --> 醬子 ；那樣子 --> 釀子 
+ 
+ 
+ 
+英文也是一樣，一句話中，有些真的很難以聽得懂，就是老外把所有可連成一音的都連起來啦，有時候，一個句子明明還蠻長的，怎麼老外沒幾秒就講完跳下一句啦，而自己不死心，反覆練習越唸越快，最後發現還是沒辦法用老外的秒數，順利把一句話給唸完，原來......連音之後，不但字數變少了(我指的是一字與一字之間的停頓)，還有可能一個字，前半段變前一個字的尾音，後半段變下一個字的頭音，原來那個字的音徹底被消滅，怪不得，聽不出來的字永遠聽不出來，因為不知道老外來這一招...
+ 
+ 
+這類的原則只有三個，子音接子音、子音接母音、母音接母音。
+ 
+1、前一字子尾是「子音」，後一字字首是「子音」
+		
+	例如︰	Open the red door.
+	唸成︰	open the redoor
+	說明︰	兩個相同發音的子音當一個子音唸，tt、dd、ss、kc…
+		
+	例如︰	I'll meet you there.
+	唸成︰	I'll meetyou there
+	說明︰	t+y的連音類似「秋」(「鬚」的台語更接近此音)
+		
+	例如︰	Would you come?
+	唸成︰	wouldyou come
+	說明︰	d+y的連音類似「糾」(「蝴蝶結」的台語更接近此音)
+		
+2、前一字子尾是「子音」，後一字字首是「母音」
+		
+	例如︰	Do you want to share a taxi?
+	唸成︰	do you wanna shara taxi
+	說明︰	share的e不發音，消掉後字尾變子音。
+		
+	例如︰	Put it on.
+	唸成︰	PuDiDon.
+	說明︰	兩個「t」前後都是母音，變彈舌音「D」。
+		
+	例如︰	I think he is the one.
+	唸成︰	i thinkeis the one
+	說明︰	「h」消音後，變成是前面的子音「k」與後面母音「e」連音。
+		
+3、前一字子尾是「母音」，後一字字首是「母音」
+		
+	例如︰	I don't know how to do it.
+	唸成︰	I donknow how to dowi
+	說明︰	圓唇的母音接母音時，聽起來像是中間多了一個「w」的音
+		
+	例如︰	Don't you see it?
+	唸成︰	don you seeji
+	說明︰	展唇的母音接母音時，聽起來像是中間多了一個「j」的音
+ 
+ 
+ 
+ 
+ 
+原則「只有」三個？光這三個就夠我忙了。
+ 
+ 
+ 
+突然想到，以前有人問過我，為什麼他總覺得日文比英文好學，我想除了日文有漢字看起來較親切之外，日本人個性一板一眼的，講話該發什麼音就發什麼音，沒什麼變音、連音原則的關係，所以，學到的單字該怎麼唸，在句子中就是怎麼唸，所以，容易聽得清楚，是這原因吧？我猜~~
+
+
+
+
+
+  Thought group in English 語氣停頓的介紹     
+   
+      中國學生常在讀英文時，以字為單位並對每一個字都加上語調的變化或是在字與字之間停頓。這個顯然是受到中文單字單音和斷句的影響，不但會造成所謂的「中國口音」(Chinese accent)也很容易讓人誤解對文句的詮釋意義。英文中通常以語意相近的片語或是詞組也就是所謂的coherent semantic unit or thought group作為句中停頓的依據，這些通常是名詞組、動詞組、補語或是受詞組。
+
+常見的片語例子： 
+
+John and I ^ have a great time ^ in our trip to Europe. 
+
+The food ^ is good ^ but the service ^ is bad. 
+
+Stop by ^ my office ^ during the office hour. 
+
+When you come back^ , we will have to ^ get together. 
+
+On the final exam^ , you will be asked ^ to present the result. 
+
+The associate president ^ will give a press conference ^ in March or April. 
+
+Instead of studying^ , we spent all our time ^ shopping at the mall. 
+
+語調的介紹 
+1. 語調 (Intonation) 
+
+與中文字的五聲語調標示及非洲語系更趨複雜的語調系統相比，英語的語調簡單多了。常見的調型有：下降的語調(falling intonation) 、上揚調(rising intonation)及超高調(extra-high intonation)。句中下降的語調(falling intonation) 通常表肯定、命令或是結束，常用於直述句、命令句或是由疑問代名詞起首的疑問句。上揚調(rising intonation)則表示疑問或是語句未完成。超高調(extra-high intonation) 則通常用於比較及強調。 
+
+A. 下降的語調 (Falling intonation) 
+
+語調能加強肯定、命令、直述、疑問等文法含意。將句子當中最末位的重音音節的語調上揚並降抑其後的音節的語調，即可完成整句話的下降的語調。 
+
+例句： 
+
+I walk to school every day.（直述句）
+
+
+Come here immediately.（命令句）
+
+
+I would like to come over.（肯定句）
+
+
+Which building is the library?（指示疑問句）
+
+
+
+B. 上揚調 (Rising intonation) 
+
+在非疑問詞起始的疑問句的句尾使用上揚調。（這裡指的是以「是」或「否」回覆的一般疑問句） 
+
+例句： 
+
+Are you hungry？
+
+
+Do you want to read the examples？
+
+
+I would like salad, pasta and coffee. （連續字串）
+
+
+
+C. 超高調 (Extra-high intonation) 
+
+除了在句尾一定會出現的揚抑調與上揚調之外，說話者在某些情況會將句中特定的字或片語的語調上揚，目的是要表現驚訝、不可置信、或是諷刺等含意。這些含意類似句中名詞、形容詞，和副詞等實字的本意。 
+
+例句： 
+
+The food is better than the service. （對照與比較）
+
+
+How do you feel, Mr. Chang? （直接發語以及是/否問句）
+
+
+When I come back, I will give you a big surprise. （製造未定效果）
+
+
+If you want to learn good English, you would have to work harder. （製造未定效果以及連帶責任）
+
+
+
+練習 
+
+仔細聽以下會話，注意說話者點出肯定、疑問、對比和諷刺等語氣的語調落點。標出語調走勢並且覆誦會話。 
+
+ 
+
+Browse > Home / 佈告欄 / 初級英文聽力檢測 初級英文聽力檢測
+九月 1, 2008 by admin   
+Filed under 佈告欄
+Leave a comment
+Mike老師給學生考試的時候會考幾個重點：
+
+聽力： 這句用美國人一般的速度(不快、不慢)完全當地的發音，學生能夠聽的懂意思？請學生翻譯說一說。 
+聽力： 聽完請學生說的時候，學生有沒有辦法辨識所有的音節 (因為連音的關係學生往往無法辨別單字與單字之間的不同) 學生發出來的音若少幾個音節或學生把單字替代自己習慣用的就代表該學生在一般流利的英文的連音或字母變音沒有這方面的訓練。無論這個學生看電視，看電影，跟老外參加討論基本上已有非常大的障礙。 
+說的能力： 請學生說的時候要模仿我發的語調、拍子、連音、變音。這方面弱的話學生通常把動詞子句所有的單字唸的太長就破壞整句的語調與拍子。例如: “what’ve you been doing?” 有兩個重音在what與doing，而且為了保持拍子have的H一定會省略，不過如果學生堅持唸H和what的T沒有變音，這句唸得不自然也每個字有重音變成 “what have you been doing?” ，拍子就亂掉這句聽起來有問題，我會扣分。 
+說的能力： 除了一些常用的句型比如 “put in a lot of”，學生常常學這種說法如果沒有連好音就會變成這句型最好不要學因為美國人大部分只有聽懂連音的說法。若把它說得不一樣一定造成溝通障礙。 “I put in a lot of overtime at work.” (=我常加班) 這句拍子有四個: “I put in a LOT of Overtime at WORK.” 表面發音(surface representation或語言學專用名詞postlexical process後置詞彙過程)如下: “I PUddina LOdda vOVertima’ WOR(k)’ ” 。這是美國人一般說話的說法。學習過程當中沒有訓練好你的英文聽說能力永遠卡在瓶頸。我最注重教學是這方面的。每個語言都有表面發音，例如中文的一般口語的 “這種” 第二個字開頭子音會省略，還有: “這樣” (唸 ‘醬’), “大家” (唸 ‘大押’), “把它…” (唸 ‘把哈’) 等等。一般的外國人(除了我)說中文也說不出來。 
+變音： 大部分的PTKH聲音都會有變化。我上面已經描寫H的省略。還有一個常(聽)見的例子: “give him…” 表面發音是 “givim”， “give her” 表面發音是 “giver” 。 T字母在表面有五個發音：
+1. 強的(送氣)主要在重音或開頭字母才用，
+2. 弱的(不送氣)在沒有重音或字尾連音出現就聽起來很像D字母不過那是因為說中文的人沒有把D唸得好，比如: “city”, “party”, “computer”, 等等…
+3. 有聲音的相當就是D字母一樣，出現在於有聲音的字母後面尤其是NG、L、R比如 “going to” 表面發音為 “goingd’ ” ，例外有太短的單字像”guilty”還是保持強的T，
+4. 鼻化音只有在N後面出現有很多例子: 數字(23 唸twenny-three, 78 唸sevenny-eigh’, 99 唸nineny-nine)，單字: counter唸為counner, internet唸為innerne’ (兩個T都變了), percennage，
+5. 斷音就是聲音會停段。說中文的人常用錯位子，比如單字與單字之間應該連音的地方。單字內的例子很多，平常在輕音節開頭有T音節尾有N，舉例: “important” 唸位 “imPOr’n’ [?mp?o??n??] (一撇代表斷音)”, “shorten” (shor’n), “gotten” (go’n), 等等。美國人大幅一致。英國人有分幾個方言，第一種會多用強的T，第二種會多用斷音但是出現的斷音不限於T也有P和K，比如: “wake him up” (英國唸 way’mup，美國唸 way-ki-mup K要唸輕像G)。英國人說 “I put in a lot of overtime at work” 唸為 “I pu’na lo’ vOvertima’ wer’ ” 。美國人說 “I’ve been putting in a lot of overtime at work” 唸為 “Ive bin PUddi-ngi-na LOdda vOVertima’ work’ [a?vb?n p???i??n? l??? vov??t?a? ma? w??k?] ” ，英國人第二種方言唸為 “I’vm PU’n'na LO’a ‘OVertima’ wer’ [a??? p???n??n? l??? v??v?t?a? ma? w??]” 。
+
+從上面的例子來看，用書學習英文其實沒有用。你說話的方式一定會有問題。我自己本身學會了這麼多語言的原因是因為我多注意聽人家的說法才開始開口說。我聽到自己的音不對勁的時候會重複說，不管我在哪國家這樣我的口音越來越像當地人。
+
+下面的題目都是MIKE會考初級說話能力。考不過，應該要從Mike的初級課程開始。考滿分，你好利害可以試試看中級的考試。
+
+每個題目Mike會唸三次給你聽。先暫停檔案翻譯，繼續聽三次模仿Mike的發音跟著唸。
+
+
+
+
+懶人連音
+
+
+《重點提示》
+
+
+「懶人聽說法」源自於「人性本惰」的原理，表現得最明顯的，就在連音上面。舉例來說，first of all有三個字，不過一旦用外國人的飛快速度講出來，聽起來像一個字而已；還有，很多明明「看」得懂的英文字，一從英美人士口中說出來，就完全變了樣，令人沮喪不已……
+
+
+一般來說，連音出現下列三種情況：
+
+
+1. 母子連音(子音＋母音)
+
+
+2. 子子相連到天邊(子音＋子音)
+
+
+3. 因結合而改變(音與音的融合與改變)
+
+
+
+
+1. 母子連音 (子音＋母音)
+
+
+在進入重點前，請先唸唸看下面這個詞組：
+
+
+look over
+
+
+在上面的例子裡，look over 的 /k/ 與/o/ 會產生連音。為什麼呢？大家都知道，英語中母音可以單獨形成音節，因此不需要子音的配合便能發音。相反的，英語中的子音，在絕大多數的情況下並不能單獨成就一個音節，因此子音必須找到它的媽媽—母音，母子連心，結合成一個音節來發音。
+
+
+所以原本分開、毫無關連的兩個字，如果前一個字的字尾是子音、後一個字的開頭是母音，子音與母音碰在一起，便會產生連音。
+
+
+請大聲唸出以下的字組。
+
+
+v rob us 　
+
+v made of 　
+
+v dig out 　　  
+
+v fall in 　　　  
+
+v can allow 　  
+
+v for us 　　   
+
+v bus is　　    
+
+v They drove on a dark alley.
+
+v Take off your orange earrings.
+
+v Look at all of the eggs over there.
+
+
+請告訴我，這些字組連音產生的地方在哪裡？
+
+
+沒錯，就在這些地方：
+
+
+v rob us       
+
+v made of  
+
+v dig out     
+
+v fall in       
+
+v can allow   
+
+v for us      
+
+v bus is      
+
+v They drove on a dark alley.
+
+v Take off your orange earrings.
+
+v Look at all of the eggs over there.
+
+
+如果將這些字組以沒連音跟有連音的方式各唸一次，真的會發現兩者差很多！這就是很多台灣人在聽外國人講話時，最容易搞不懂的地方。
+
+
+你或許會問：那我以後每次想到一個英文句子，要不要把它寫下來，運用上面所說的連音規則，一一把連音找出來後再開口講呢？嘿，當然不需要啦！誰說發音規則要死背呢？還記得我們耳提面命的人性本惰原理嗎？你只要在說英語時多多偷懶，連音便可以自然形成。這種子音與母音連結所形成的連音，除了可以幫你節省力氣，還可以幫你增進發音時的流暢度，更可以幫助你聽得懂別人的英語，你一定要學起來！
+
+
+
+
+英語概說--英語聽力障礙探討：連音、消音、弱音、變音 
+上一課：發音練習：KK音標、自然拼音｜下一課：字根、片語及句子 
+
+
+聽力障礙探討
+為什麼有時候以為聽懂英語了，後來發現竟然聽錯？為什麼老是覺得英語說的好快，跟都跟不上？
+
+(一)會聽錯的主要原因是：你腦中所儲存的音和以英語為母語的人所唸的音有極大的出入，尤其是要特別注意極相似的音。所以在學英語發音時，開口或閉口，捲舌或不捲舌，長音或短音等是要斤斤計較的。另外，「重音」唸不對，比發音錯誤更令人難聽懂。
+
+(二)會覺得英語講的很快，是因為你不了解他們說話的方式，英語的發音表達方式，主要大致有5種：
+
+★縮音：遇到am, is, are, will, has, have, had…等助動詞往往這些字會和主詞縮在一起唸。例如：They have → They’ve，I will…。把2個字當一個字來發音就對了。
+
+★弱音：英文字的介詞、代名詞、連接詞、冠詞以及助動詞等，這些字都不唸重音。例如：at，of，have，and，them→，that…
+
+★消音：常遇到[p],[b],[t],[d],[k],[g]結尾的字，後面接子音時，這些音要停頓一下，唸在嘴裡，但不出聲。
+例如：Bob called last night.    You look great today.
+              /x/              /x/                       /x/      /x/
+
+★變音：在美式英語中，有些音會受左右音的影響而變音，所以，吳炳鍾教授曾說過：字典的音標是發音的重要參考，標準的發音要參照母語人士的發音為主。例如： 
+[t]夾在2個母音中間，要唸成類似[d]的音。
+a lot of ，water，not at all.
+[p]，[t]，[k]出現在[s]之後，唸成疑似[b],[d],[g]的音。
+stop→[sd]，sky→[sg]，speak→[sb]
+
+★連音：習慣上，英語有些字是唸在一起的，碰到這種情形，學習的方法很簡單，只要把音標寫在一起，當一個單字一起唸，就對了。例如：
+I’m lovin’ it. (麥當勞口號，我就是喜歡) 
+Rock and roll (因為發音，搖滾樂的英文單字就寫成rock’n’roll )
+
+
+英國音與美國音
+英語的發音因為地區的不同，有很多種，例如：英式英語、美式英語、澳洲英語、加拿大英語、蘇格蘭英語、南非英語…等。但全世界以美國音和英國音為主，英國音以倫敦地區為標準，美國音以加州口音為標準。台灣的英語大致上是學「美國音」，想要學標準美國口音，有一個很簡單的方法，常常看加州Hollywood製作的電影，就可學到標準美國音。
+
+學會一口流利的英語後，不要太拘泥於美國音或英國音，有時候美國人認為帶點英國腔的美國音，是上流社會的表現。
+最後提醒：不要太在意別人的發音，只要自己發的是標準的美國音或英國音，自然就能適應各地不同的口音。 
+

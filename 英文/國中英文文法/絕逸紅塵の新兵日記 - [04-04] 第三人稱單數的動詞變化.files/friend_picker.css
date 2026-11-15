@@ -1,0 +1,75 @@
+#collection_comments {
+	BORDER-RIGHT: #dfe8f6 5px solid; PADDING-RIGHT: 1em; BORDER-TOP: #dfe8f6 5px solid; PADDING-LEFT: 1em; Z-INDEX: 500; PADDING-BOTTOM: 1em; BORDER-LEFT: #dfe8f6 5px solid; COLOR: #444; PADDING-TOP: 1em; BORDER-BOTTOM: #dfe8f6 5px solid; POSITION: absolute; TOP: 0px; BACKGROUND-COLOR: #fff
+}
+#collection_comments .icon {
+	RIGHT: 5px; CURSOR: pointer; POSITION: absolute; TOP: 5px
+}
+#friend-picker {
+	BORDER-RIGHT: #dfe8f6 1px solid; BORDER-TOP: #dfe8f6 1px solid; FONT-SIZE: 11px; Z-INDEX: 100; BACKGROUND: #fff; VISIBILITY: hidden; BORDER-LEFT: #dfe8f6 1px solid; WIDTH: 405px; COLOR: #666; BORDER-BOTTOM: #dfe8f6 1px solid; FONT-FAMILY: arial, sans-serif; POSITION: absolute; TOP: 0px
+}
+#friend-picker-container {
+	BORDER-RIGHT: #dfe8f6 5px solid; BORDER-TOP: #dfe8f6 5px solid; BORDER-LEFT: #dfe8f6 5px solid; BORDER-BOTTOM: #dfe8f6 5px solid; ZOOM: 1
+}
+#friend-picker A {
+	COLOR: #1a84b7; TEXT-DECORATION: none
+}
+#friend-picker IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#friend-picker-bd {
+	PADDING-LEFT: 7px
+}
+#friend-picker-bd:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+#friend-picker-pagination:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.friend-picker-cell {
+	BORDER-RIGHT: #fff 2px solid; BORDER-TOP: #fff 2px solid; FLOAT: left; MARGIN: 0px 3px 7px 0px; OVERFLOW: hidden; BORDER-LEFT: #fff 2px solid; WIDTH: 70px; CURSOR: pointer; BORDER-BOTTOM: #fff 2px solid; HEIGHT: 80px; TEXT-ALIGN: center
+}
+#friend-picker #friend-picker-bd DIV.friend-picker-cell:hover {
+	BORDER-RIGHT: #b0ccef 2px solid; BORDER-TOP: #b0ccef 2px solid; BORDER-LEFT: #b0ccef 2px solid; BORDER-BOTTOM: #b0ccef 2px solid; moz-border-radius: 5px; webkit-border-radius: 5px; border-raidus: 5px
+}
+ HTML #friend-picker #friend-picker-bd .on {
+	BORDER-RIGHT: #67a7e3 2px solid; BORDER-TOP: #67a7e3 2px solid; BORDER-LEFT: #67a7e3 2px solid; BORDER-BOTTOM: #67a7e3 2px solid
+}
+.friend-picker-cell P {
+	MARGIN: 5px auto 0px; WIDTH: 60px; HEIGHT: 60px
+}
+#label {
+	VERTICAL-ALIGN: middle; WIDTH: 60px; CURSOR: pointer; HEIGHT: 60px; TEXT-ALIGN: center
+}
+#label  {
+	VERTICAL-ALIGN: middle
+}
+#label SPAN {
+	DISPLAY: inline-block; HEIGHT: 100%
+}
+#friend-picker #friend-picker-pagination {
+	CLEAR: both; FONT-SIZE: 13px; MARGIN: 7px 0pt 7px -9px; TEXT-ALIGN: center
+}
+#friend-picker #friend-picker-pagination A {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 7px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 7px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cccccc 1px solid; CURSOR: pointer; MARGIN-RIGHT: 4px; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center; outline-color: invert; outline-style: none; outline-width: medium
+}
+#friend-picker #friend-picker-pagination A.more {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#friend-picker #friend-picker-pagination A.on {
+	BORDER-LEFT-COLOR: #fff; BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BACKGROUND-COLOR: #fff; BORDER-RIGHT-COLOR: #fff
+}
+#friend-picker #friend-picker-closebtn {
+	RIGHT: 5px; CURSOR: pointer; POSITION: absolute; TOP: 5px; TEXT-DECORATION: none
+}
+#loading {
+	DISPLAY: none; RIGHT: 25px; POSITION: absolute; TOP: 4px
+}
+#friend-picker #friend-picker-hd {
+	HEIGHT: 18px; BACKGROUND-COLOR: #f8fbfc
+}
+#friend-picker #friend-picker-hd {
+	TEXT-INDENT: 7px
+}
+#friend-picker #friend-picker-hd .on {
+	COLOR: #efefef! important; BACKGROUND-COLOR: #666! important
+}

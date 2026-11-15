@@ -1,0 +1,72 @@
+#panel {
+	BACKGROUND: #f2f2f2
+}
+#panel .ft {
+	BACKGROUND: #f2f2f2
+}
+#panel {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#panel .hd {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#panel .bd {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#panel .ft {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#panel {
+	BORDER-RIGHT: #d2d2d2 2px solid; BORDER-TOP: #d2d2d2 2px solid; BORDER-LEFT: #d2d2d2 2px solid; BORDER-BOTTOM: #d2d2d2 2px solid; moz-border-radius: 10px; webkit-border-radius: 10px
+}
+#panel_c {
+	Z-INDEX: 4
+}
+#panel_c .underlay {
+	RIGHT: -5px; LEFT: 5px; BOTTOM: -5px; TOP: 5px; moz-border-radius: 10px; webkit-border-radius: 10px
+}
+#panel A.container-close {
+	MARGIN-TOP: 5px; BACKGROUND: url(../img/ico_close.png) no-repeat center top
+}
+#panel .bd {
+	PADDING-LEFT: 0px; PADDING-TOP: 0px
+}
+#panel .ft {
+	PADDING-RIGHT: 5px; moz-border-radius: 10px; webkit-border-radius: 10px
+}
+#panel .bd .antiphishing-wrapper {
+	PADDING-LEFT: 57px; BACKGROUND: url(../img/ico_warning.png) no-repeat left top; MARGIN: 25px 0px 32px 25px; ZOOM: 1
+}
+#panel .bd .notice {
+	BACKGROUND: url(../img/ico_info.png) no-repeat left top
+}
+#panel P.antiphishing-warning {
+	FONT-WEIGHT: bold; FONT-SIZE: 116%; WIDTH: 270px; COLOR: #000
+}
+#panel P.antiphishing-warning LABEL {
+	FONT-WEIGHT: bold; FONT-SIZE: 85%; VERTICAL-ALIGN: middle
+}
+#panel SPAN.antiphishing-note {
+	DISPLAY: block; FONT-SIZE: 93%; MARGIN: 17px 0px; WIDTH: 270px
+}
+#panel SPAN.antiphishing-note A {
+	COLOR: #3399cc
+}
+#panel .note SPAN.antiphishing-note {
+	COLOR: #666
+}
+#panel LABEL {
+	MARGIN-LEFT: 5px
+}
+#panel SPAN#save-msg {
+	FONT-SIZE: 85%; MARGIN-LEFT: 10px; VERTICAL-ALIGN: middle; COLOR: #ff0000
+}
+#panel .ft .button-group {
+	MARGIN-BOTTOM: 7px; MARGIN-RIGHT: 5px; TEXT-ALIGN: right
+}
+#panel .ft .button-group BUTTON {
+	FONT-SIZE: 12px
+}
+#panel .button-group .default {
+	BACKGROUND: url(../img/button-r-b.png) no-repeat left center
+}

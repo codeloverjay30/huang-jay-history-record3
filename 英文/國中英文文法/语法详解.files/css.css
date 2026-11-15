@@ -1,0 +1,45 @@
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.hover {
+	COLOR: #ffffff
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+TD {
+	FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.a {
+	COLOR: #1d3d7e; TEXT-DECORATION: none
+}
+.1a {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.a2 {
+	FONT-SIZE: 12px; COLOR: #0066cc; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.a3 {
+	FONT-SIZE: 10px; COLOR: #0066cc; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.a4 {
+	FONT-SIZE: 12px; COLOR: #ff6600; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.a3 {
+	FONT-SIZE: 10px; COLOR: #0066cc; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.a5 {
+	FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: none
+}

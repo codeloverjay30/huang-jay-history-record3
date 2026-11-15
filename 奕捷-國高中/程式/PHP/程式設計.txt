@@ -1,0 +1,80 @@
+程式設計
+
+1.饒瑞佶老師個人教學網站  http://rfid.ctu.edu.tw/rueychi/train.html
+
+2.數位邏輯教材 http://210.70.70.242/index.php?option=com_content&view=article&id=85:2009-07-16-08-01-43&catid=57:2009-07-16-06-01-48&Itemid=116
+
+3.網站如何架設 架網站需準備哪些東西  推薦網易虛擬主機，便宜與穩定的虛擬主機、主機空間 http://wanteasy.tw/how-to-build-site.html
+
+4.網頁製作教學 http://kh.k12.edu.tw/1000510633/webpg1203/index3.htm
+
+5.網頁設計_Flash、Dreamweaver–學承電腦 http://www.pccenter.com.tw/courses/web-design/index.php
+
+6.電腦遊戲製作開發設計論壇  檢視版面 - 遊戲程式初級班：語法及基礎概念 http://www.gamelife.idv.tw/viewforum.php?f=2&sid=0ded3fddd9b223c4864279af9f6d5564
+
+7.跟我學 網路架設 DIY http://followme.gotop.com.tw/NetDIY/index.htm
+
+8.程式語言教學誌 PHP 入門指南 - 如何執行 PHP 程式  http://pydoing.blogspot.tw/2012/11/php-How-to-Execute.html
+
+9.教學文件  程式設計 http://www.slime.com.tw/tutorial/programming.htm
+
+10.做自己的遊戲 - Litus工作室 7 上課地點 http://garfstudio.blogspot.tw/search/label/7%20%E4%B8%8A%E8%AA%B2%E5%9C%B0%E9%BB%9E
+
+11.高中資訊科技概論資訊融入教學教材發展計畫 http://hsmaterial.moe.edu.tw/schema/is/index.htm
+
+12.台大資訊應用課程網 https://my.ntu.edu.tw/register/viewcoursemain.asp
+
+13.HTML教學目錄 http://itchen.class.kmu.edu.tw/HTML/content.htm
+
+14.html教學 http://www.pcnet.idv.tw/pcnet/html/html.htm
+
+15.C# 的開發環境 - 免費電子書：C# 程式設計 http://cs0.wikidot.com/environment
+
+16.C 語 言 的 格 式 http://imil.au.edu.tw/~hsichcl/TurboC/C_Unit1.htm
+
+17.Apache-PHP-MySQL http://elesson.tc.edu.tw/~yunol/eec.thu_course01/day1.html
+
+
+
+考試
+
+1.102學年度大學個人申請入學招生各校系篩選標準一覽表 https://www.caac.ccu.edu.tw/caac102/102apply_dr43rf_Sieve/html_pg/Standard/collegeList.htm
+
+2.LTTC 財團法人語言訓練測驗中心 - The Language Training & Testing Center http://www.lttc.ntu.edu.tw/wordlist.htm
+
+3.LTTC課程檢索 https://www.lttc-li.org.tw/Search.aspx?Sear=LANG;USER_A;FEATURE&Code=E;A;05
+
+4.UrSchool  http://www.urschool.org/search/categories/%E7%A4%BE%E6%9C%83%E8%88%87%E5%BF%83%E7%90%86
+
+5.大專校院推廣教育課程資訊入口網  http://cell.moe.edu.tw/guests/CourCg.aspx?cg=163
+
+6.大碩研究所提供研究所考試、研究所推甄、在職專班、EMBA最新考試資訊  http://www.daso.com.tw/
+
+7.大學熱門科系大解析-第三類組  Waknow我懂  http://waknow.com/?p=677
+
+8.小笨霖英語筆記本全集  http://som.twbbs.org/klee/notebook/
+
+9.公務人員 公務員考試介紹_公職王  http://info.public.com.tw/ExamName_Content.aspx?tid=1&nid=60
+
+10.他400分，大安高工榜首 - 基測情報站 - 升高中職 - udn文教職考  http://mag.udn.com/mag/edu/storypage.jsp?f_ART_ID=323619
+
+11.安安免費教學網  http://www.anan1.webnow.biz/main.htm
+
+12.小魔流
+
+13.施老師國中理化地科教室  http://office.fhjh.tn.edu.tw/teach/science/phd/1/1.htm
+
+14.段考題庫  http://www.ymjh.kh.edu.tw/s11/exam.htm  國中
+
+15.國中生物＿體循環與肺循環 @ 讀書方法心智圖筆記國家考試英檢閱讀記憶基測學測指考背單字~雨木木學習中心  痞客邦 PIXNET  http://rainwoodwood.pixnet.net/blog/post/2451348-%E5%9C%8B%E4%B8%AD%E7%94%9F%E7%89%A9%EF%BC%BF%E9%AB%94%E5%BE%AA%E7%92%B0%E8%88%87%E8%82%BA%E5%BE%AA%E7%92%B0
+
+16.國立清華大學高中學生科學研究人才培育計畫招生 - 清華大學化學系  http://chem.web.nthu.edu.tw/files/90-1078-2.php
+
+17.請問~第二類組有哪些科系呢! - Yahoo!奇摩知識+  http://tw.knowledge.yahoo.com/question/question?qid=1205072902551
+
+18.請問以下幾間學校學系的級分大概多少!! - Yahoo!奇摩知識+  http://tw.knowledge.yahoo.com/question/question?qid=1014012001362
+
+19.學生學習-題庫下載  http://www.nmjh.tp.edu.tw/about-05_02.asp
+
+20.試題練習   http://163.20.87.3/newweb/teach/Earth/exam95.htm  高中
+
