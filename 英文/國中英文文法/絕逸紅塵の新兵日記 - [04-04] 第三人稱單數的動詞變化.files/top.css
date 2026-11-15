@@ -1,0 +1,27 @@
+.trackback_a {
+	CURSOR: hand
+}
+.mapwidth {
+	WIDTH: 100%; HEIGHT: 400px
+}
+.calendar2 {
+	HEIGHT: 240px
+}
+.history {
+	ZOOM: 1
+}
+.history:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.history_title {
+	FLOAT: left
+}
+.history_articles {
+	FLOAT: left
+}
+.cmt_floor_hide {
+	DISPLAY: none; MARGIN-BOTTOM: 0.5em; COLOR: blue
+}
+.cmt_floor {
+	FLOAT: right
+}
